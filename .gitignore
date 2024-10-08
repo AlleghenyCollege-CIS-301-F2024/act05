@@ -236,6 +236,7 @@ pyvenv.cfg
 *.Rdata
 *.Rhistory
 *.Rincr_history
+Rplots.pdf
 
 # Ctags #
 #########
